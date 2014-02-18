@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Hub Quote]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-02-18T16:42:53+07:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[sophearak]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[lorem test hiop opos]]></title>
+    <link href="http://yoursite.com/blog/2014/02/18/lorem-test-hiop-opos/"/>
+    <updated>2014-02-18T15:42:45+07:00</updated>
+    <id>http://yoursite.com/blog/2014/02/18/lorem-test-hiop-opos</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, non, eius qui quam sapiente inventore tempora libero vero et culpa molestiae autem modi vitae odit ipsum error similique perferendis voluptate?</p>
+]]></content>
+  </entry>
+  
+</feed>

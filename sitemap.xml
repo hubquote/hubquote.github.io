@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://yoursite.com/blog/2014/02/18/lorem-test-hiop-opos/</loc>
+        <lastmod>2014-02-18T15:45:42+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://yoursite.com/</loc>
+        <lastmod>2014-02-18T15:45:42+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://yoursite.com/blog/</loc>
+        <lastmod>2014-02-18T15:45:42+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://yoursite.com/blog/archives/</loc>
+        <lastmod>2014-02-18T15:45:42+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://yoursite.com/robots.txt</loc>
+        <lastmod>2014-02-18T15:40:35+07:00</lastmod>
+    </url>
+</urlset>
