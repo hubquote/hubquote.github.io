@@ -1,0 +1,20 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+{% if site.gravatar != false %}<script src="//crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/md5.js"></script>{% endif %}
+<script defer src="{{ root_url }}/javascripts/octopress.js"></script>
+<script type="text/javascript" src="/javascripts/nprogress.js"></script>
+<script>NProgress.start();NProgress.done();</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-45884988-2', 'hubquote.github.io');
+  ga('send', 'pageview');
+</script>
+{% include javascripts/google_analytics.html %}
+{% include javascripts/disqus.html %}
+
+{% if page.sidebar != false %}
+{% include javascripts/github.html %}
+{% include javascripts/delicious.html %}
+{% endif %}
